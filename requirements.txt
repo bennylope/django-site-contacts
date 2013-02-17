@@ -1,0 +1,5 @@
+# Testing requirements
+
+mock==1.0.1
+django-dynamic-fixture==1.6.4
+django-override-settings==1.2
